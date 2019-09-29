@@ -1,0 +1,5 @@
+USAGE: 
+
+-h	Hostname, in the form of domain.tld or subdomain.domain.tld
+-u	joker DDNS username
+-p	joker DDNS password
