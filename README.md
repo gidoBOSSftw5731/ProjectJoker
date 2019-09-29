@@ -1,5 +1,5 @@
 # ProjectJoker
-##Joker DDNS client in BASH
+## Joker DDNS client in BASH
 
 
 Usage in USAGE (printed with invalid commands)
