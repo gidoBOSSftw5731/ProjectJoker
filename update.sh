@@ -24,5 +24,5 @@ then
 	exit 1
 fi
 
-curl "https://svc.joker.com/nic/update?username=${username}&password=${password}&hostname=${hostname}"
-
+curl -4 "https://svc.joker.com/nic/update?username=${username}&password=${password}&hostname=${hostname}"
+curl -6 "https://svc.joker.com/nic/update?username=${username}&password=${password}&hostname=${hostname}"
